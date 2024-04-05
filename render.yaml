@@ -1,4 +1,3 @@
-previewsEnabled: true
 databases:
   - name: llama-app-db
     databaseName: llama_app_db
